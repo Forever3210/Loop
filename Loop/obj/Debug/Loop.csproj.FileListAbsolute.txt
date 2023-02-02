@@ -20,3 +20,8 @@ C:\Users\henri\Documents\Sources\Loop\Loop\obj\Debug\Loop.csproj.GenerateResourc
 C:\Users\henri\Documents\Sources\Loop\Loop\obj\Debug\Loop.csproj.CoreCompileInputs.cache
 C:\Users\henri\Documents\Sources\Loop\Loop\obj\Debug\Loop.exe
 C:\Users\henri\Documents\Sources\Loop\Loop\obj\Debug\Loop.pdb
+C:\Users\henri\Documents\Sources\Loop\Loop\obj\Debug\Loop.TrustInfo.xml
+C:\Users\henri\Documents\Sources\Loop\Loop\obj\Debug\Loop.exe.manifest
+C:\Users\henri\Documents\Sources\Loop\Loop\bin\Debug\Loop.exe.manifest
+C:\Users\henri\Documents\Sources\Loop\Loop\bin\Debug\Loop.application
+C:\Users\henri\Documents\Sources\Loop\Loop\obj\Debug\Loop.application
