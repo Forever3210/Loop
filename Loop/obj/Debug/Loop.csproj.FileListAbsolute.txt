@@ -9,3 +9,14 @@ C:\Users\henri\Documents\Sources\Loop\obj\Debug\Loop.csproj.GenerateResource.cac
 C:\Users\henri\Documents\Sources\Loop\obj\Debug\Loop.csproj.CoreCompileInputs.cache
 C:\Users\henri\Documents\Sources\Loop\obj\Debug\Loop.exe
 C:\Users\henri\Documents\Sources\Loop\obj\Debug\Loop.pdb
+C:\Users\henri\Documents\Sources\Loop\Loop\bin\Debug\Loop.exe.config
+C:\Users\henri\Documents\Sources\Loop\Loop\bin\Debug\Loop.exe
+C:\Users\henri\Documents\Sources\Loop\Loop\bin\Debug\Loop.pdb
+C:\Users\henri\Documents\Sources\Loop\Loop\obj\Debug\Loop.csproj.AssemblyReference.cache
+C:\Users\henri\Documents\Sources\Loop\Loop\obj\Debug\Loop.csproj.SuggestedBindingRedirects.cache
+C:\Users\henri\Documents\Sources\Loop\Loop\obj\Debug\Loop.Form1.resources
+C:\Users\henri\Documents\Sources\Loop\Loop\obj\Debug\Loop.Properties.Resources.resources
+C:\Users\henri\Documents\Sources\Loop\Loop\obj\Debug\Loop.csproj.GenerateResource.cache
+C:\Users\henri\Documents\Sources\Loop\Loop\obj\Debug\Loop.csproj.CoreCompileInputs.cache
+C:\Users\henri\Documents\Sources\Loop\Loop\obj\Debug\Loop.exe
+C:\Users\henri\Documents\Sources\Loop\Loop\obj\Debug\Loop.pdb
